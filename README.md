@@ -1,5 +1,5 @@
 # BMP280(or HW611)for nrf52832
- drive program, easy use function and simple demo
+ drive program, easy use function and simple demo\n
  The main program and the function's definition is in \app\hw611\hw611.c, and decleartion is in \app\hw611\hw611.h
  You just need to "include hw611.h" in your project
  And \app\demo.c is a reference for using this program
